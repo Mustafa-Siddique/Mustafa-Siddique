@@ -1,28 +1,41 @@
-# 💫 About Me:
-🚀 DApp Developer<br>💻 Web Application Developer<br>🔐 Smart Contract Developer<br>🎨 Web Designer<br><br>I specialize in creating decentralized applications, web applications, smart contracts and designing web pages that are visually stunning and user-friendly. With a solid understanding of blockchain technology and web development, I am able to create innovative solutions that are secure, scalable, and easy to use.<br><br>🤝 Collaborating with clients to bring their ideas to life is my passion.<br><br>🌟 Constantly learning and experimenting with new technologies to stay up-to-date with the latest trends and advancements in the field.<br><br>📱 Feel free to reach out to me for any projects or opportunities. Let's build something great together!
+👋 Hi, I'm Mustafa Siddique
 
+Founder of [Cadillacs](https://cadillacs.in)
+ 🚀 | Innovating in Blockchain, Web3 & Decentralized Applications
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-siddiq/) 
+I started as a self-taught programmer building dApps and smart contracts, and over the years grew into a founder & project lead, building products that go from idea → MVP → real-world adoption.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=plastic&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mustafa-Siddique&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Siddique&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Siddique&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Today, I focus less on coding every line myself and more on shaping products, guiding teams, and creating impact through blockchain-driven solutions.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mustafa-Siddique&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+💡 What I Do
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Blockchain & Web3 → dApps, smart contracts, account abstraction, gasless flows, zk-proofs.
 
----
-[![](https://visitcount.itsvg.in/api?id=Mustafa-Siddique&icon=0&color=0)](https://visitcount.itsvg.in)
+Product Leadership → Turning concepts into market-ready MVPs and scaling them.
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mstfasid) 
+Team Building → Mentoring devs, designers, and pushing projects beyond code.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Innovation → Exploring data integrity, decentralized identity, and new blockchain patterns.
+
+🚀 Some Highlights
+
+DeFa Project → Reached 150k users in 2 months post-launch.
+
+Philblocks → A decentralized credentialing system for EdTech.
+
+GreenOrigin → Partnered with Mauritius RTCs to build a traceability system for their products.
+
+🌍 Beyond Code
+
+I believe blockchain is more than technology — it's about changing systems, empowering people, and creating transparent ecosystems. I spend my time between building, mentoring, and collaborating with people who share that vision.
+
+📬 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/mustafa-siddiq/)
+
+[Email](mailto:contact@cadillacs.in)
+
+📊 Subtle GitHub Glimpse
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Siddique&theme=transparent&hide_border=true&show_icons=true&count_private=true" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Mustafa-Siddique&theme=transparent&hide_border=true" height="150" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Siddique&layout=compact&theme=transparent&hide_border=true" height="150" /> </p>
+
+🔥 "Build what matters. Ship what lasts."
